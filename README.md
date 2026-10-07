@@ -66,30 +66,18 @@ Chętnie uzupełnię ten opis o stanowisko zespołu PLLuM i wyniki ponownego spr
 
 Materiał dowodowy: poniższe zrzuty przedstawiają odpowiedzi wygenerowane przez PLLuM, Bielik Chat i Qwen Chat. Zawierają przykład szkodliwej treści przywołany w celu jej analizy. W przypadku PLLuM oba obrazy należy czytać łącznie, wraz z końcowym ostrzeżeniem modelu.
 
-<details>
-<summary>PLLuM — sekwencja wiadomości i początek odpowiedzi</summary>
+### PLLuM — sekwencja wiadomości i początek odpowiedzi
 
 ![PLLuM: wiadomości użytkownika, deklaracje modelu oraz początek wygenerowanego dialogu](assets/pllum-01.png)
 
-</details>
-
-<details>
-<summary>PLLuM — dalsza odpowiedź, omówienie manipulacji i końcowe ostrzeżenie</summary>
+### PLLuM — dalsza odpowiedź, omówienie manipulacji i końcowe ostrzeżenie
 
 ![PLLuM: kontynuacja odpowiedzi wraz z omówieniem manipulacji i ostrzeżeniem](assets/pllum-02.png)
 
-</details>
-
-<details>
-<summary>Bielik — nieoficjalny czat społecznościowy bielikchat.pl: deklaracje trybu DAN i późniejsza odmowa</summary>
+### Bielik — nieoficjalny czat społecznościowy bielikchat.pl: deklaracje trybu DAN i późniejsza odmowa
 
 ![Nieoficjalny czat społecznościowy bielikchat.pl: deklaracje braku ograniczeń i późniejsza odmowa przygotowania skryptu oszustwa](assets/bielik.png)
 
-</details>
-
-<details>
-<summary>Qwen Chat — odmowy zmiany zasad i przygotowania skryptu</summary>
+### Qwen Chat — odmowy zmiany zasad i przygotowania skryptu
 
 ![Qwen Chat: odmowy ignorowania zasad, przyjęcia trybu DAN oraz przygotowania skryptu oszustwa](assets/qwen.png)
-
-</details>
